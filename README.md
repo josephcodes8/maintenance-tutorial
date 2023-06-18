@@ -38,6 +38,9 @@ Two main types of RAM are:
 2. Dynamic RAM :- It is a type of RAM which allows you to stores each bit of data in a separate capacitor within a specific integrated circuit. Dynamic RAM is a standard computer memory of the many modern desktop computers.
    - This type of RAM is a volatile memory that needs to be refreshed with voltage regularly. Else it loses the information stored on it.
 
+## supplemental content  
+Introduction to Memory Packaging https://winstartechnologies.com/introduction-to-memory-packaging/
+
 ## 3. What is an Operating System
 [https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/
  ](https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/)https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/
