@@ -18,8 +18,6 @@ https://edu.gcfglobal.org/en/computerbasics/basic-parts-of-a-computer/1/
 ## 3. Buttons and Ports of a computer. 
 https://edu.gcfglobal.org/en/computerbasics/buttons-and-ports-on-a-computer/1/
 
-
-
 ## 4. Components that live inside a computer? 
 https://edu.gcfglobal.org/en/computerbasics/inside-a-computer/1/
 
